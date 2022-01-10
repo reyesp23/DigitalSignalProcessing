@@ -5,7 +5,7 @@ Collection of DSP projects
 
 [II - Fourier Series](DSP-2-FourierSeries/)
 
-[III - Cross-correlation](DSP-1-Convolutions/)
+[III - Cross-correlation](DSP-3-Correlation/)
 
 [IV - DTFT](DSP-1-Convolutions/)
 
