@@ -1,4 +1,8 @@
 # DigitalSignalProcessing
 Collection of DSP projects
 
-[DSP I. Convolutions](DSP-1-Convolutions/)
+[I - Convolutions](DSP-1-Convolutions/)
+[II - Fourier Series](DSP-1-Convolutions/)
+[III - Cross-correlation](DSP-1-Convolutions/)
+[IV - DTFT](DSP-1-Convolutions/)
+[V - Fourier Transform](DSP-1-Convolutions/)
