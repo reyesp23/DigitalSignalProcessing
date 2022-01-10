@@ -1,4 +1,4 @@
-# DigitalSignalProcessing
+# Digital Signal Processing
 Collection of DSP projects
 
 [I - Convolutions](DSP-1-Convolutions/)
